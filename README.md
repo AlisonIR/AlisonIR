@@ -51,7 +51,7 @@
       height="40" /> </a> <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img
       src="https://th.bing.com/th/id/OIP.yvi6B33dh1qkOz22drdl5wHaHe?w=162&h=180&c=7&r=0&o=5&pid=1.7" alt="redux" width="40"
       height="40" /> </a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img
-      src="https://miro.medium.com/max/6668/1*XP-mZOrIqX7OsFInN2ngRQ.png" alt="express" width="40"
+      src="https://henrykc24.github.io/my-portfolio/assets/images/express.png" alt="express" width="40"
       height="40" /> </a> </p>
 
 <br>
