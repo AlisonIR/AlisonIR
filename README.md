@@ -32,7 +32,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://jefrydco.id/_nuxt/img/how-tailwind-css-help-reduce-workload-by-jefrydco.833f9b8.jpg"
+    <img src="https://archive.org/services/img/github.com-tailwindlabs-tailwindcss_-_2020-10-19_01-01-45"
       alt="tailwindcss" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
     rel="noreferrer"> <a href="https://www.w3schools.com/css/" target="_blank"
     rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
