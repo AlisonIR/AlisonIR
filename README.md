@@ -51,7 +51,7 @@
       height="40" /> </a> <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img
       src="https://th.bing.com/th/id/OIP.yvi6B33dh1qkOz22drdl5wHaHe?w=162&h=180&c=7&r=0&o=5&pid=1.7" alt="redux" width="40"
       height="40" /> </a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img
-      src="https://th.bing.com/th/id/R.161052138fa79136c0474521906b55e2?rik=cpMpIaBtp93Ifg&pid=ImgRaw&r=0" alt="sass" width="40"
+      src="https://miro.medium.com/max/6668/1*XP-mZOrIqX7OsFInN2ngRQ.png" alt="express" width="40"
       height="40" /> </a> </p>
 
 <br>
