@@ -52,7 +52,11 @@
       src="https://th.bing.com/th/id/OIP.yvi6B33dh1qkOz22drdl5wHaHe?w=162&h=180&c=7&r=0&o=5&pid=1.7" alt="redux" width="40"
       height="40" /> </a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img
       src="https://henrykc24.github.io/my-portfolio/assets/images/express.png" alt="express" width="40"
-      height="40" /> </a> </p>
+      height="40" /> </a>
+      <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img
+      src="https://th.bing.com/th/id/OIP.tgWp6VFx6Iz95Rttlv_t7QHaDt?pid=ImgDet&rs=1" alt="React Native" width="40"
+      height="40" /> </a>
+</p>
 
 <br>
 
